@@ -15,9 +15,28 @@ The goal of this project was to **practice responsive web design, layout replica
 
 ## 🖼️ Project Preview
 <p align="center">
-  <img src="assets/netflix_preview.png" alt="Netflix UI Clone Preview" width="800">
+  <img src="images/1.JPG" alt="Netflix UI Clone Preview" width="800">
 </p>
 
+<p align="center">
+  <img src="images/2.JPG" alt="Netflix UI Clone Preview" width="800">
+</p>
+
+<p align="center">
+  <img src="images/1.JPG" alt="Netflix UI Clone Preview" width="800">
+</p>
+
+<p align="center">
+  <img src="images/3.JPG" alt="Netflix UI Clone Preview" width="800">
+</p>
+
+<p align="center">
+  <img src="images/4.JPG" alt="Netflix UI Clone Preview" width="800">
+</p>
+
+<p align="center">
+  <img src="images/6.JPG" alt="Netflix UI Clone Preview" width="800">
+</p>
 ---
 
 ## 🌿 Branch Information
