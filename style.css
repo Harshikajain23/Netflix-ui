@@ -427,23 +427,32 @@ body {
   transition: transform 0.3s ease;
 }
 
-.disclaimer{
+.disclaimer-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: black;
+  overflow: hidden;     
+  white-space: nowrap;
+}
+
+.disclaimer {
+  display: inline-block; 
   color: white;
   font-size: 2rem;
+  padding-right: 100%;
   animation: scroll-right 15s linear infinite;
-  
 }
 
-
-@keyframes scroll-left {
+@keyframes scroll-right {
   0% {
-    transform: translateX(0);
-  }
-  100% {
     transform: translateX(-100%);
   }
+  100% {
+    transform: translateX(100%);
+  }
 }
-
 
 @media (max-width: 480px) {
   .faq-question {
@@ -561,6 +570,7 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
