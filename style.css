@@ -430,7 +430,7 @@ body {
   position: fixed;
   bottom: 0;
   width: 100%;
-  background: black;
+background: rgba(0, 0, 0, 0.6);
   color: white;
   font-size: 2rem;
   padding: 0 0;
@@ -554,6 +554,7 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
